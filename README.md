@@ -10,11 +10,11 @@
 3. Improper handling of target webpage html, resulting in some mismatch between column and data.
 
 ### Guide to Files - 
-files/specs_extracted.csv - extracted specifications into separate columns
-files/gsmarena_data.csv - **raw data** scraped directly containing the specifications as nested dictionaries under single column
-files/gsmarena_brands.csv - **raw data** containing all the brands and number of models in each brand according to the site
-analysis.ipynb - some data cleaning and extracting the specifications into columns
-files/visited_models.txt - all the visited model specification urls
+* files/specs_extracted.csv - extracted specifications into separate columns
+* files/gsmarena_data.csv - **raw data** scraped directly containing the specifications as nested dictionaries under single column
+* files/gsmarena_brands.csv - **raw data** containing all the brands and number of models in each brand according to the site
+* analysis.ipynb - some data cleaning and extracting the specifications into columns
+* files/visited_models.txt - all the visited model specification urls
 
 ### To Do - 
 1. Data cleaning
